@@ -1,0 +1,7 @@
+.vscode
+configs
+meshes
+output.ppm
+heatmap.ppm
+rtx.out
+bvh.obj
